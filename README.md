@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=2xIWY32x-j8
 
 ## Run App
 0. Generate your Metamask wallet and paste the private key into `.secret` file at the root directory
-1. Start the local hardhat node
+1. Start local hardhat node
 
 ```shell
 npx hardhat node
