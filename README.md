@@ -1,4 +1,4 @@
-# Run in local
+# Run App
 
 1. Start the local hardhat node
 
