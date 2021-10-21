@@ -1,0 +1,16 @@
+body {
+    background: #12232E; 
+    background: linear-gradient(135deg, rgb(0, 0, 0), rgba(0, 0, 0, 0.6) 40%, rgba(18, 35, 46, 0.9) 100%), url('background.jpg') #000;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background: cover;
+    -moz-background: cover;
+    -o-background: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  ::-webkit-scrollbar {display:none;} /* hide scrollbar */
+  
