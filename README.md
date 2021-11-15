@@ -4,8 +4,8 @@
 https://www.youtube.com/watch?v=2xIWY32x-j8
 
 ## Run App
-0. Generate your Metamask wallet and paste the private key into `.secret` file at the root directory
-1. Start local hardhat node
+0. Generate your Metamask wallet and paste the private key into `.secret` file under the root directory
+1. Start a local hardhat node
 
 ```shell
 npx hardhat node
@@ -17,7 +17,7 @@ npx hardhat node
 npx hardhat run .\scripts\deploy.js --network localhost
 ```
 
-3. Copy the market address and NFT address to `config.js` file
+3. Copy the market address and the NFT address to `config.js` file
 4. Start the app
 
 ```
