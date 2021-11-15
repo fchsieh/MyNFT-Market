@@ -23,9 +23,3 @@ npx hardhat run .\scripts\deploy.js --network localhost
 ```
 npm run dev
 ```
-
-## Credit
-
-Thanks for the awesome guide made by Nader Dabit! Most of the contract code were from here:
-
-  [How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js - [2021 Tutorial]](https://www.youtube.com/watch?v=GKJBEEXUha0())
